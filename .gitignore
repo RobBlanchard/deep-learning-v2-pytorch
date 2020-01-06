@@ -2,3 +2,5 @@
 Cat_Dog_data
 .vscode
 convolutional-neural-networks/cifar-cnn/data/
+*/data/
+*/__pycache__/
