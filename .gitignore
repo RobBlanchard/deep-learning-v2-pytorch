@@ -4,3 +4,6 @@ Cat_Dog_data
 convolutional-neural-networks/cifar-cnn/data/
 *data/
 */__pycache__/
+*summer2winter_yosemite/
+summer2winter-yosemite.zip
+*__MACOSX/
