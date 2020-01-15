@@ -7,3 +7,7 @@ convolutional-neural-networks/cifar-cnn/data/
 *summer2winter_yosemite/
 summer2winter-yosemite.zip
 *__MACOSX/
+*dogImages/
+*lfw/
+*model_scratch.pt
+
